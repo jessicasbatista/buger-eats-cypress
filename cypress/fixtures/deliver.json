@@ -1,0 +1,50 @@
+{
+  "signup": {
+    "name": "Jessica",
+    "cpf": "00000014141",
+    "email": "jes@mail.com",
+    "whatsapp": "47999999999",
+    "address": {
+      "postalcode": "89035429",
+      "street": "Rua João Gomes da Nóbrega",
+      "number": "100",
+      "details": "Ap 10",
+      "district": "Itoupava Seca",
+      "city_state": "Blumenau/SC"
+    },
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+  },
+  "cpf_inv": {
+    "name": "Joao",
+    "cpf": "000000141AA",
+    "email": "joao@mail.com",
+    "whatsapp": "47999999999",
+    "address": {
+      "postalcode": "89035429",
+      "street": "Rua João Gomes da Nóbrega",
+      "number": "100",
+      "details": "Ap 10",
+      "district": "Itoupava Seca",
+      "city_state": "Blumenau/SC"
+    },
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+  },
+  "email_inv": {
+    "name": "Jessica",
+    "cpf": "00000014141",
+    "email": "jes.com.br",
+    "whatsapp": "47999999999",
+    "address": {
+      "postalcode": "89035429",
+      "street": "Rua João Gomes da Nóbrega",
+      "number": "100",
+      "details": "Ap 10",
+      "district": "Itoupava Seca",
+      "city_state": "Blumenau/SC"
+    },
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+  }
+}
